@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153999950722",
+    "project_id": "lineup-f64cc",
+    "storage_bucket": "lineup-f64cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153999950722:android:9ed80baaf1d45027edc59b",
+        "android_client_info": {
+          "package_name": "com.maverickallies.lineup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafzUqW3Qtc7AGcYlXpGSSCfiZBfU2Y0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
